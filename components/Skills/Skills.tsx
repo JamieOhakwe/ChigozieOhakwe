@@ -2,8 +2,8 @@
 import React, { useState } from "react";
 import { skills } from "../data/striptData";
 import Image, { StaticImageData } from "next/image";
-import Test from "./test";
-import ChangeColor from "../ChangeColor/ChangeColor";
+// import Test from "./test";
+// import ChangeColor from "../ChangeColor/ChangeColor";
 // import nodeLogo from '../../public/nodeLogo.png'
 // import nodeLogo from '../../public/img/nodeLogo.png'
 import reactLogo from "../../public/img/reactLogo.png";
