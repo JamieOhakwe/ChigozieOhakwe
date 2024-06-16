@@ -32,12 +32,12 @@ const Section = ({}) => {
                         className="rounded-full"
 					/>
 				</div>
-					<Image
+					{/* <Image
 					width={100}
 					height={200}
 					src='/img/projects/interiordesign.png'
 					alt="pic"
-					/>
+					/> */}
 			</div>
 		</>
 	);
