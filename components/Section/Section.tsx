@@ -25,7 +25,7 @@ const Section = ({}) => {
 				{/* RIGHT */}
 				<div className="flex items-center justify-center">
 					<Image
-						src="/img/jamie_2.jpg"
+						src="/img/jamie/jamie.jpg"
 						width={300}
 						height={400}
 						alt="pic of jamie"

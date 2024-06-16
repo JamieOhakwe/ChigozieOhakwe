@@ -1,4 +1,5 @@
 import Image from "next/image"
+import Link from "next/link"
 
 
 const Projects = () => {
@@ -19,6 +20,18 @@ const Projects = () => {
 
                 <span className=" font-bold text-xl ">Interior Decor landing page</span>
                 <span>Beautiful landing page done with <span className="bg-yellow-300">NextJs and Tailwind </span></span>
+            <div>
+                <Link href="https://github.com/JamieOhakwe/interiordesign">
+                
+                    <button className="bg-blue-600 text-white rounded-xl p-4 px-10 mt-4 hover:bg-blue-400 shadow-xl hover:text-blue-800 ">Code link</button>
+                </Link>
+                <Link href="https://interiordesign-drab.vercel.app/">
+                
+				    <button className="border-blue-600 border text-blue-600 rounded-xl p-4 px-10 mt-4 hover:bg-blue-400 shadow-xl hover:text-blue-800 ml-5">View Link</button>
+                </Link>
+
+                
+            </div>
             </div>
         </div>
     </div>

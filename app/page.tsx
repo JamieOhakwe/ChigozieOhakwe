@@ -13,9 +13,9 @@ export default function Home() {
       <Navbar/>
       <Section/>
       <Skills/>
+      <Projects/>
       {/* <StudentProfile/> */}
       <Business/>
-      <Projects/>
       
     </>
   );
