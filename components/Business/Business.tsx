@@ -17,18 +17,21 @@ const Business = () => {
     <div>
 
         <div className='font-bold text-xl text-center'>Businesses</div>
-        <div className='flex gap-[4rem] items-center justify-center hover:bg-blue-100 hover:rounded-full'>
+        <div className='flex w-auto h-auto gap-[4rem] items-center justify-center '>
             {biz.map((b)=>(
-                <div key={b.id}>
-                <Image
-            src={b.img}
-            alt={b.tag}
-            width={200}  
-            height={100} 
-             
-          />
-                {/* <span key={b.id}>{b.tag}</span> */}
-                </div>
+                
+                     <Image
+                    src={b.img}
+                    alt={b.tag}
+                    width={100}  
+                    height={50}
+                    key={b.id}
+                    
+                    
+                    
+                />
+                
+                
                 
             ))}
         </div>

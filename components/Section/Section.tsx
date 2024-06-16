@@ -15,7 +15,7 @@ const Section = ({}) => {
 						<span className="text-[2rem] font-bold text-gray-500">A Fullstack App Developer</span>
 						<span className="text-[1.3rem] border-b-4 font-light text-gray-500">Typescript | ReactJS | NodeJS | Mongo db </span>
                         <span className="text-gray-500 mt-5">This is where my story begins... </span>
-                        <span className="text-gray-700 max-w-[34rem]"> Highly motivated and detail-oriented software develeoper with a strong foundation in web development methodologies. Eager to leverage academic knowledge and practical experience to contribute effectively to a dynamic and collaborative team while growing professionally </span>
+                        <span className="text-gray-700 max-w-[34rem]"> I am obsessed with beautiful and simple user interfaces </span>
 					</div>
 					<button className="bg-blue-600 text-white rounded-xl p-4 px-10 mt-4 hover:bg-blue-400 shadow-xl hover:text-blue-800 ">Learn More</button>
 					<button className="border-blue-600 border text-blue-600 rounded-xl p-4 px-10 mt-4 hover:bg-blue-400 shadow-xl hover:text-blue-800 ml-5">Download Resume</button>
