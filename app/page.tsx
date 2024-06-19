@@ -5,6 +5,7 @@ import Skills from "@/components/Skills/Skills";
 import Projects from "@/components/Projects/Projects";
 import StudentProfile from "@/components/StudentProfile/StudentProfile";
 import Image from "next/image";
+import Project2 from "@/components/Projects/Project2";
 
 
 export default function Home() {
@@ -14,6 +15,7 @@ export default function Home() {
       <Section/>
       <Skills/>
       <Projects/>
+      <Project2/>
       {/* <StudentProfile/> */}
       <Business/>
       

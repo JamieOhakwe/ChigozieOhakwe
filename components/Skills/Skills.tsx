@@ -65,7 +65,7 @@ const Skills = () => {
 							src={s.image}
 							alt="logo"
 							width={100}
-							height={100}
+							height={50}
 						/>
 						<span>{s.label}</span>
 					</div>
