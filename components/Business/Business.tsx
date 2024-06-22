@@ -16,7 +16,7 @@ const Business = () => {
     <>
     <div>
 
-        <div className='font-bold text-xl text-center'>Businesses</div>
+        <div className='font-bold text-xl text-center mt-[5rem]'>Businesses</div>
         <div className='flex w-auto h-auto gap-[4rem] items-center justify-center '>
             {biz.map((b)=>(
                 
